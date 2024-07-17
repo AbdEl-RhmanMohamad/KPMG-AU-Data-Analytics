@@ -44,3 +44,5 @@ The business context when presenting my findings:
 - What additional external datasets may be useful to obtain greater insights into customer preferences and propensity to purchase the products?
 
 Specifically, my presentation should specify who Sprocket Central Pty Ltd’s marketing team should be targeting out of the new 1000 customer list as well as the broader market segment to reach out to.
+
+[Final Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzgwMjc4MWUtN2Q2OS00MjQ4LWE5NjctNGRmMjM5ZTU2NGMwIiwidCI6ImQxZjQ1MDM5LTJhNDQtNDAwNy1hZDViLTM3NjEyNWI0N2Q1YiJ9)
