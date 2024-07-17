@@ -1,5 +1,5 @@
 # KPMG-AU-Data-Analytics
-Job Simulation on Forage
+Job Simulation on Forage [Final Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzgwMjc4MWUtN2Q2OS00MjQ4LWE5NjctNGRmMjM5ZTU2NGMwIiwidCI6ImQxZjQ1MDM5LTJhNDQtNDAwNy1hZDViLTM3NjEyNWI0N2Q1YiJ9)
 
 ![image](https://github.com/user-attachments/assets/d3efdecf-ba03-4c9a-9356-b6fb59d3886d)
 
@@ -45,4 +45,4 @@ The business context when presenting my findings:
 
 Specifically, my presentation should specify who Sprocket Central Pty Ltd’s marketing team should be targeting out of the new 1000 customer list as well as the broader market segment to reach out to.
 
-[Final Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzgwMjc4MWUtN2Q2OS00MjQ4LWE5NjctNGRmMjM5ZTU2NGMwIiwidCI6ImQxZjQ1MDM5LTJhNDQtNDAwNy1hZDViLTM3NjEyNWI0N2Q1YiJ9)
+![image](https://github.com/user-attachments/assets/6db17178-f87f-431e-8f2a-3c856f035704)
